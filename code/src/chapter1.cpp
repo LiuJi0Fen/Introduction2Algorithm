@@ -1,7 +1,8 @@
 #include "chapter1.h"
 
 
-// merge
+// merge changed
+//
 template <typename T>
 void merge(T* A, int p , int q, int r)
 {
