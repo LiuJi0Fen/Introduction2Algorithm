@@ -1,0 +1,3 @@
+/Users/junyiyang/CillianProj/Introduction2Algorithm/build/CMakeFiles/I2A.dir
+/Users/junyiyang/CillianProj/Introduction2Algorithm/build/CMakeFiles/edit_cache.dir
+/Users/junyiyang/CillianProj/Introduction2Algorithm/build/CMakeFiles/rebuild_cache.dir
